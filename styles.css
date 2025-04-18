@@ -260,6 +260,8 @@ main {
 }
 
 .about__role {
+  font-size: 1.5rem;
+  font-weight: 600;
   margin-top: 1.2em;
 }
 
